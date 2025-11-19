@@ -38,14 +38,3 @@ jupyter lab
 
 2. Notebooks içinde hücreleri sırayla çalıştırın. Büyük modeller çalıştırmadan önce `minnak_llm.ipynb` içerisindeki `MODEL_NAME`, batch/epoch ve dataset boyutu gibi parametreleri kontrol edin.
 
-## Lisans
-
-Bu depo için varsayılan lisans MIT olarak eklendi (LICENSE dosyasına bakınız).
-
----
-
-Repository sahibi: CelkMehmett
-
----
-
-Repository sahibi: CelkMehmett

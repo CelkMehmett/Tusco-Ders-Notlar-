@@ -1,3 +1,33 @@
+streamlit
+pandas
+altair
+scikit-learn
+joblib
+numpy
+
+# opsiyonel (ihtiyaca göre ekleyin):
+# pyarrow
+# matplotlib
+# seaborn
+streamlitfastapi==0.95.2
+
+pandasuvicorn==0.22.0
+
+altairgunicorn==21.2.0
+
+scikit-learnscikit-learn==1.3.2
+
+joblibpandas==2.2.2
+
+numpynumpy==1.26.4
+
+# gerekirse ek paketler: pyarrow, matplotlib, seabornjoblib==1.3.2
+
+flask==2.3.4
+marshmallow==3.22.0
+requests==2.31.0
+
+# Not: Versiyonlar örnektir — projede test edip sabitleyin.
 transformers
 datasets
 accelerate
